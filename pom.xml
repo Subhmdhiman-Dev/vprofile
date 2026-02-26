@@ -325,3 +325,13 @@
 
 #SSSD
 #git 
+#maven
+#spring
+#hibernate
+#mysql
+#elasticsearch
+#rabbitmq
+#memcached
+#log4j
+
+
